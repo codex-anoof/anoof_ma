@@ -25,4 +25,4 @@ Feel free to explore my repos and give feedback. I’m always open to learning, 
 
 > "Build with purpose. Lead with values."
 
-📫 Reach me via GitHub or connect through [LinkedIn / Email] (optional).
+📫 Reach me via GitHub or connect through codexjam.anoof@gmail.com
